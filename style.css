@@ -1,0 +1,53 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+.first-container{
+    display: flex;
+}
+.first-half-width{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    
+}
+#first-img{
+    width: 80%;
+    margin-top: 0px;
+}
+.left{
+    margin-left: 60px;
+    margin-top: 100px;
+}
+.border{
+    border-style: none none none solid;
+    border-width: 0px 0px 0px 5px;
+    border-color: coral;
+
+}
+#first-h1{
+    font-size: 60px;
+    color: black;
+    margin: 0px 0px 0px 10px;
+}
+#second-h1{
+    font-size: 60px;
+    color: sandybrown;
+    margin: 0px 0px 0px 10px;
+    
+}
+#first-para{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+#first-link-button{
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: antiquewhite;
+    font-weight: bold;
+}
+#second-para{
+    margin-top: 50px;
+}
