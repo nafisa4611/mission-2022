@@ -1,5 +1,6 @@
 body{
     font-family: 'Playfair Display', serif;
+    margin: 0px;
 }
 .first-container{
     display: flex;
@@ -116,13 +117,13 @@ span{
     width: 80%;
 }
 .third-right{
-    width: 60%;
+    width: 40%;
     margin-top: 170px;
     margin-left: 0px;
 }
 
 #third-first-h3{
-    font-size: 60px;
+    font-size: 40px;
     color: black;
     margin: 0px;
 }
@@ -144,4 +145,105 @@ span{
     padding: 10px 40px;
     color: antiquewhite;
     font-weight: bold;
+}
+.forth-container{
+    display: flex;
+    width: 90%;
+}
+.forth-left{
+    width: 60%;
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-right: 0px;
+}
+#forth-img{
+    width: 80%;
+}
+.forth-right{
+    width: 40%;
+    margin-top: 170px;
+    margin-left: 0px;
+}
+
+#forth-first-h3{
+    font-size: 40px;
+    color: black;
+    margin: 0px;
+}
+#forth-second-h3{
+    font-size: 40px;
+    color: black;
+    margin: 0px;
+    
+}
+#forth-first-para{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+#forth-link-button{
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: antiquewhite;
+    font-weight: bold;
+}
+.fifth-container{
+    display: flex;
+    width: 90%;
+    margin-bottom: 40px;
+}
+.fifth-left{
+    width: 40%;
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-right: 0px;
+}
+#fifth-img{
+    width: 80%;
+}
+.fifth-right{
+    width: 60%;
+    margin-top: 170px;
+    margin-left: 0px;
+}
+
+#fifth-first-h3{
+    font-size: 40px;
+    color: black;
+    margin: 0px;
+}
+#fifth-second-h3{
+    font-size: 40px;
+    color: black;
+    margin: 0px;
+    
+}
+#fifth-first-para{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+#fifth-link-button{
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: antiquewhite;
+    font-weight: bold;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.938);
+    height: 180px;
+}
+#footer-h1{
+    text-align: center;
+    font-size: 25px;
+    color: bisque;
+}
+#footer-para{
+    text-align: center;
+    color: rgb(76, 125, 168);
+    font-size: 12px;
 }
