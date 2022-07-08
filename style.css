@@ -7,16 +7,17 @@ body{
 .first-half-width{
     width: 50%;
     float: left;
-    padding: 20px;
     
 }
 #first-img{
-    width: 80%;
-    margin-top: 0px;
+    width: 70%;
 }
 .left{
-    margin-left: 60px;
-    margin-top: 100px;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.right{
+    margin-top: 0px;
 }
 .border{
     border-style: none none none solid;
@@ -50,4 +51,97 @@ body{
 }
 #second-para{
     margin-top: 50px;
+}
+#secend-center-h2{
+    font-size: 60px;
+    color: cornflowerblue;
+    margin: 0px 0px 0px 10px;
+    text-align: center;
+}
+span{
+    color: darkblue
+    
+}
+.second-box{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.box{
+    width: 30%;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.box-img{
+    width: 70%;
+}
+.box-h3{
+    margin-top: 0px;
+    margin-left: 30px;
+    
+}
+.box-para{
+    margin-top: 0px;
+    margin-left: 30px;
+    font-size: 15px;
+    text-align: justify;
+}
+#mission{
+    background-color: antiquewhite;
+}
+#vission{
+    background-color: lightcyan;
+}
+#goals{
+    background-color: lightyellow;
+}
+.third-container{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.third-left{
+    width: 40%;
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-right: 0px;
+}
+#third-img{
+    width: 80%;
+}
+.third-right{
+    width: 60%;
+    margin-top: 170px;
+    margin-left: 0px;
+}
+
+#third-first-h3{
+    font-size: 60px;
+    color: black;
+    margin: 0px;
+}
+#third-second-h3{
+    font-size: 60px;
+    color: black;
+    margin: 0px;
+    
+}
+#third-first-para{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+#third-link-button{
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: antiquewhite;
+    font-weight: bold;
 }
